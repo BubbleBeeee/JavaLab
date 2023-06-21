@@ -18,6 +18,6 @@ class Budynek {
     }
 
     void wypisz() {
-        System.out.println("Budynek o nazwie \"" + nazwa + "\" wybudowany w " + rokBudowy + " roku, więc ma " + obliczWiek() + " lat. Ma " + liczbaPieter + " pieter. ");
+        System.out.println("Budynek o nazwie \"" + nazwa + "\" wybudowany w " + rokBudowy + " roku, więc ma " + obliczWiek() + " lat. Ma " + liczbaPieter + " pięter. ");
     }
 }
